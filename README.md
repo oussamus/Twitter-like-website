@@ -11,7 +11,7 @@ This project is for SOEN 341 class which is given at Concordia University. The g
 - Neeham Khalid @neeham
 - Mugisha Kakou	- @MelaninedUnicorn
 - Neeham Khalid
-- Oussama Zouhadi HI
+- Oussama Zouhadi --> Oussama's first modification to README.md 
 - Zohal Mir @zohalmir
 
 ## Languages and tools that will be used:
